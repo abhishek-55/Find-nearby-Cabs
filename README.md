@@ -12,4 +12,6 @@ the input file. </li>
 formula.</li>
 <li> If the distance is found to be less than or equal to 10 km, then output the user-id and
 name of the cab driver to a new file (output file) else take no action.</li>
-  </ul>
+ </ul>
+ Distance can be calculated by Using Great-circle Distance Formula
+
